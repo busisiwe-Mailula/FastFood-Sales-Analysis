@@ -1,0 +1,21 @@
+order_id,order_date,item_name,category,price,quantity,payment_method,revenue
+1001,2025-01-03,Burger,Burger,45,2,Cash,90.0
+1002,2025-01-03,Burger,Burger,45,1,Card,45.0
+1003,2025-01-03,Chips,Sides,20,3,Card,60.0
+1004,2025-01-04,Coke,Drinks,15,2,Cash,30.0
+1005,2025-01-04,Fanta,Drinks,15,1,Cash,15.0
+1006,2025-01-04,Burger,Burger,45,1,Card,45.0
+1007,2025-01-05,Chicken Wings,Sides,35,2,Card,70.0
+1008,2025-01-05,Burger,Burger,45,1,Cash,45.0
+1009,2025-01-05,Coke,Drinks,15,2,Card,30.0
+1010,2025-01-06,Chips,Sides,20,2,Cash,40.0
+1011,2025-01-06,Fanta,Drinks,15,1,Cash,15.0
+1012,2025-01-06,Burger,Burger,45,3,Card,135.0
+1013,2025-01-06,Chicken Wings,Sides,35,1,Card,35.0
+1014,2025-01-07,Coke,Drinks,15,2,Cash,30.0
+1015,2025-01-07,Chips,Sides,20,3,Card,60.0
+1016,2025-01-07,Burger,Burger,45,2,Card,90.0
+1017,2025-01-08,Fanta,Drinks,15,1,Cash,15.0
+1018,2025-01-08,Burger,Burger,45,1,Card,45.0
+1019,2025-01-08,Chicken Wings,Sides,35,2,Card,70.0
+1020,2025-01-09,Coke,Drinks,15,3,Cash,45.0
