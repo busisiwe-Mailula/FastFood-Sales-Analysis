@@ -3,8 +3,6 @@ import pandas as pd
 # in this program i will clean the dataset before analysing it in MySQL
 
 # create a function that inspects the dataset
-
-
 def inspect_data(df):
     print("First 5 rows:")
     print(df.head())
