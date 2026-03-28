@@ -15,13 +15,11 @@ def inspect_data(df):
     print("\nMissing Values:")
     print(df.isnull().sum())
 
-# a function that fixes the date formats
-
 
 # load dataset
 df = pd.read_csv("data/raw/fastfood_sales_raw.csv")
 
-# inspect dataset
+# call function to inspect dataset
 inspect_data(df)
 
 
